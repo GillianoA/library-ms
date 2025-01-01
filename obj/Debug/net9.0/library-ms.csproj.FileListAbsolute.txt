@@ -1,0 +1,15 @@
+C:\Users\wetma\Documents\GitHub\freeCodeCamp-Practice\library-ms\bin\Debug\net9.0\library-ms.exe
+C:\Users\wetma\Documents\GitHub\freeCodeCamp-Practice\library-ms\bin\Debug\net9.0\library-ms.deps.json
+C:\Users\wetma\Documents\GitHub\freeCodeCamp-Practice\library-ms\bin\Debug\net9.0\library-ms.runtimeconfig.json
+C:\Users\wetma\Documents\GitHub\freeCodeCamp-Practice\library-ms\bin\Debug\net9.0\library-ms.dll
+C:\Users\wetma\Documents\GitHub\freeCodeCamp-Practice\library-ms\bin\Debug\net9.0\library-ms.pdb
+C:\Users\wetma\Documents\GitHub\freeCodeCamp-Practice\library-ms\obj\Debug\net9.0\library-ms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wetma\Documents\GitHub\freeCodeCamp-Practice\library-ms\obj\Debug\net9.0\library-ms.AssemblyInfoInputs.cache
+C:\Users\wetma\Documents\GitHub\freeCodeCamp-Practice\library-ms\obj\Debug\net9.0\library-ms.AssemblyInfo.cs
+C:\Users\wetma\Documents\GitHub\freeCodeCamp-Practice\library-ms\obj\Debug\net9.0\library-ms.csproj.CoreCompileInputs.cache
+C:\Users\wetma\Documents\GitHub\freeCodeCamp-Practice\library-ms\obj\Debug\net9.0\library-ms.sourcelink.json
+C:\Users\wetma\Documents\GitHub\freeCodeCamp-Practice\library-ms\obj\Debug\net9.0\library-ms.dll
+C:\Users\wetma\Documents\GitHub\freeCodeCamp-Practice\library-ms\obj\Debug\net9.0\refint\library-ms.dll
+C:\Users\wetma\Documents\GitHub\freeCodeCamp-Practice\library-ms\obj\Debug\net9.0\library-ms.pdb
+C:\Users\wetma\Documents\GitHub\freeCodeCamp-Practice\library-ms\obj\Debug\net9.0\library-ms.genruntimeconfig.cache
+C:\Users\wetma\Documents\GitHub\freeCodeCamp-Practice\library-ms\obj\Debug\net9.0\ref\library-ms.dll
